@@ -1,0 +1,8 @@
+com/mvcModel/view/MainFrame.class
+com/mvcModel/view/FormListener.class
+com/mvcModel/view/TextPanel.class
+com/mvcModel/model/Database.class
+com/mvcModel/controller/Controller.class
+com/mvcModel/view/App.class
+com/mvcModel/view/FormPanel.class
+com/mvcModel/model/Person.class
